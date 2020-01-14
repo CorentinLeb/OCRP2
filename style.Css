@@ -1,0 +1,134 @@
+﻿.yellowFont{
+    color: #FECA07;
+}
+
+.develobar{
+    border-bottom: 2px #FECA07 solid;
+
+}
+
+.yellowbar{
+    width: 150%;
+    
+    background-color: #FECA07;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.yellowback{
+    background-color: #FECA07;
+}
+
+.blackBack{
+    background-color: #404040;
+}
+
+.contactBloc{
+    padding: 10px;
+}
+
+.aproposBloc{
+    padding: 10px;
+    text-align: justify;
+}
+
+.bloc-left{
+    height: 100%;
+    margin-bottom: 50px;
+}
+
+img{
+    
+    overflow:hidden;
+    -webkit-border-radius:100px;
+    -moz-border-radius:100px;
+    border-radius:100px;
+    width:150px;
+    height:150px;
+    margin-left: 30%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+    margin-top: 15%;
+    box-shadow: 1px 2px 3px 1px;
+
+}
+
+.graduation{
+    width: 50px;
+    height: 50px;
+}
+
+.apropos{
+    text-align: justify;
+    min-height: 500px;
+}
+
+.iconCircle{
+    border: 2px black solid;
+    border-radius: 100%;
+    padding: 15px;
+    font-size: 40px;
+    margin: 10px
+
+}
+
+.iconLoisirs{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.experiencePro{
+    margin-bottom: 80px;
+    margin-top: 80px;
+    margin-left: 0;
+}
+
+.yellowIcon{
+    color: #FECA07;
+    font-size: 2.1em;
+
+}
+
+.formation{
+    margin-top: 60px;
+}
+
+.yellowDotCircle{
+    color: #FECA07;
+}
+
+.yellowCircle{
+    color: #FECA07;
+    font-size: 0.8em;
+   
+}
+
+.textHead{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.recoBold{
+    font-weight: 600;
+}
+
+.nantes{
+    margin-left: 25px;
+}
+
+.name{
+    margin-top: 8%;
+    padding-left: 0;
+}
+
+.dotSpace{
+    padding-right: 10px;
+}
+
+.geekSpace{
+    margin-bottom: 5%;
+}
+
+.textSpace{
+    margin-bottom: 25px;
+}
